@@ -48,11 +48,8 @@ The project consists of two VPCs connected through a VPC Peering connection.
 
 ### Network Diagram
 
-Add your architecture image to the repository, for example, in an `images` folder.
-
-```markdown
 ![AWS VPC Peering Architecture](./Architecture/project_architecture.jpeg)
-```
+
 
 ## 🛠️ AWS Services Used
 
